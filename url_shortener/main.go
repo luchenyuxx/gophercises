@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/luchenyuxx/gophercise/url_shortener"
+	url_shortener "github.com/luchenyuxx/gophercise/url_shortener/lib"
 )
 
 func main() {
